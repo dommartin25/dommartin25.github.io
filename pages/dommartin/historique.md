@@ -9,3 +9,5 @@ L’origine la plus simple du mot Dommartin est domus Martini (maison de Martin)
 Il semble qu’on peut affirmer que Dommartin, comme beaucoup de paroisses, a pris le nom de son patron, qui en effet était l’évêque de Tours.
 
 On peut d’ailleurs admirer l’église Saint Martin, de style gothique flamboyant, qui conserve un chœur flanqué de deux chapelles.
+
+![Dommartin du bas du village](../../assets/images/bas-village-eglise.jpg "Dommartin du bas du village")

@@ -14,4 +14,6 @@ Autrefois, cette croix se dressait sur le devant du porche de l’église. Elle 
 
 Inscrite aux monuments historiques, cette croix, qui a supporté la dégradation du temps, a du subir une réfection de la partie fer forgé.
 
-![La croix de Chemin](../../assets/images/chapelle.jpg "La croix de Chemin")
+<img src="../../assets/images/croix.jpg" width="20%" alt="La croix de Chemin">
+
+<img src="../../assets/images/haut-croix.jpg" width="75%" alt="Le haut de la croix">
