@@ -13,3 +13,5 @@ Le piédestal couronné par une corniche est fait de béton et de pierre calcair
 Autrefois, cette croix se dressait sur le devant du porche de l’église. Elle a été déplacée sur le côté du bâtiment lors de la suppression du cimetière autour de l’église et l’aménagement du carrefour.
 
 Inscrite aux monuments historiques, cette croix, qui a supporté la dégradation du temps, a du subir une réfection de la partie fer forgé.
+
+![La croix de Chemin](../../assets/images/chapelle.jpg "La croix de Chemin")
