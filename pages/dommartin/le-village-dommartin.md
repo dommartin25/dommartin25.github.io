@@ -1,5 +1,5 @@
 ---
-pageTitle: Le village, historiques et choses à voir
+pageTitle: Le village, historique et choses à voir
 ---
 
 ## Historique du village
