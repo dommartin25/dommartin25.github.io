@@ -71,14 +71,30 @@ Fax : **03.81.46.57.64**
 
 Responsable – Madame Elisabeth FRELET
 
-Nombre de places : 100 personnes
-
-Cuisine équipée, vaisselle
-
+Nombre de places : 100 personnes\
+Cuisine équipée, vaisselle\
 Tarifs et renseignements sur demande
 
-Réservation possible au **03.81.39.53.41** ou par e-mail sur la page <a href="../../contact">contact</a>
+Réservation possible au **03.81.39.53.41**
 
-```
+<script>
+  // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+  { coded = "5tmnmi@ge55tnJm9G3.zn"
+    key = "g0EzWDwomxJNRPMnYAV6FsZyOClUe5a7Iu8q924cQdhTfpjbLi3tSHkvrBG1XK"
+    shift=coded.length
+    link=""
+    for (i=0; i<coded.length; i++) {
+      if (key.indexOf(coded.charAt(i))==-1) {
+        ltr = coded.charAt(i)
+        link += (ltr)
+      }
+      else {
+        ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+        link += (key.charAt(ltr))
+      }
+    }
+  document.write("Ou par e-mail en cliquant <a href='mailto:"+link+"'>ici</a>")
+  }
+</script>
 
-```
+</script><noscript>Veuillez activer Javascript pour nous envoyer un e-mail.</noscript>
