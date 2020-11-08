@@ -1,5 +1,5 @@
 ---
-pageTitle: Vivre à Dommartin
+pageTitle: Informations pratiques
 ---
 
 # Bibliothèque
