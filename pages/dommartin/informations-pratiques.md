@@ -69,13 +69,13 @@ Fax : **03.81.46.57.64**
 
 # Salle des fêtes
 
-Responsable – Madame Elisabeth FRELET
+Responsable – Monsieur François FAVRE
 
 Nombre de places : 100 personnes\
 Cuisine équipée, vaisselle\
 Tarifs et renseignements sur demande
 
-Réservation possible au **03.81.39.53.41**
+Réservation possible au **06.79.00.36.99**
 
 <script>
   // A wizard to generate this code is at http://www.jottings.com/obfuscator/
